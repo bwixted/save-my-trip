@@ -4,7 +4,6 @@ jdk: oraclejdk8
 
 env:
 
-
  global:
   - ANDROID_API_LEVEL=27
   - EMULATOR_API_LEVEL=22
